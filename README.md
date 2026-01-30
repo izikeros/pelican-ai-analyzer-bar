@@ -2,6 +2,8 @@
 
 A Pelican plugin that adds clickable AI service buttons to your articles, allowing readers to analyze and summarize content with one click using ChatGPT, Perplexity, Claude, Gemini, or Grok.
 
+![AI Analyzer Bar Screenshot](screenshot.png)
+
 ## Installation
 
 ```bash
